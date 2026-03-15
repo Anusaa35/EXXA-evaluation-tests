@@ -1,4 +1,4 @@
-# EXXA-evaluation-tests
+# EXXA5-evaluation-tests
 
 This repository contains evaluation test implementations for the EXXA project track.
 
